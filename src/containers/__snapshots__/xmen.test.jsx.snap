@@ -1,0 +1,464 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`xmen Character container fetches a list of xmen characters 1`] = `
+<ul
+  aria-label="characters"
+>
+  <li>
+    <figure>
+      <a
+        href="/1"
+      >
+        <img
+          alt="Scott Summers"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FCyclops.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Scott Summers
+        </p>
+        <p>
+          Cyclops
+        </p>
+        <p>
+          He is one of the founding members of the X-Men.
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/2"
+      >
+        <img
+          alt="Logan"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2Fwolverine.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Logan
+        </p>
+        <p>
+          Wolverine
+        </p>
+        <p>
+          He is a member of the X-Men. He has a mysterious and confused past
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/3"
+      >
+        <img
+          alt="Charles Xavier"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FProfessor_X.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Charles Xavier
+        </p>
+        <p>
+          Professor X
+        </p>
+        <p>
+          He is a powerful telepathic mutant and leader of the X-Men
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/4"
+      >
+        <img
+          alt="Ororo Munroe"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FStorm.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Ororo Munroe
+        </p>
+        <p>
+          Storm
+        </p>
+        <p>
+          She is a mutant and member of the X-Men. She comes from Africa. She would also be leader of the Morlocks for a long time
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/5"
+      >
+        <img
+          alt="Jean Grey"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FJean_Grey.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Jean Grey
+        </p>
+        <p>
+          Jean Grey
+        </p>
+        <p>
+          He is one of the original members of the X-Men. While working as a member of the group, Jean developed romantic feelings for Scott Summers and found herself the center of attention to Wolverine as well.
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/6"
+      >
+        <img
+          alt="Dr. Hank McCoy"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FBeast1.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Dr. Hank McCoy
+        </p>
+        <p>
+          Beast
+        </p>
+        <p>
+          He is one of the original members of the X-Men. He has been with the team throughout its history. He has extensive knowledge in chemistry and biology, whose own research was used to nearly destroy mutantkind. He has also been a member of the Avengers
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/7"
+      >
+        <img
+          alt="Rogue"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FRogue.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Rogue
+        </p>
+        <p>
+          Rogue
+        </p>
+        <p>
+          She is a mutant and a member of the X-Men
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/8"
+      >
+        <img
+          alt="Remy LeBeau"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FGambit.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Remy LeBeau
+        </p>
+        <p>
+          Gambit
+        </p>
+        <p>
+          He is a mutant and a member of the X-Men and formerly a member of the Thieves' Guild
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/9"
+      >
+        <img
+          alt="Jubilation Lee"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FJubilee_Powers.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Jubilation Lee
+        </p>
+        <p>
+          Jubilee
+        </p>
+        <p>
+          She is a mutant and a member of the X-Men.
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/10"
+      >
+        <img
+          alt="Kevin Sydney"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FMorph.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Kevin Sydney
+        </p>
+        <p>
+          Morph
+        </p>
+        <p>
+          He is a mutant and member of the X-Men
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/11"
+      >
+        <img
+          alt="Erik Magnus Lehnsherr"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FMagneto.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Erik Magnus Lehnsherr
+        </p>
+        <p>
+          Magneto
+        </p>
+        <p>
+          He is a revolutionary leader who believes mutants are the next stage of evolution for humanity and are destined to take over the world. He is a friend and enemy to Professor Charles Xavier. He is often an adversary of, though sometimes an ally to, the X-Men.
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/12"
+      >
+        <img
+          alt="Graydon Creed, Sr."
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FSabretooth.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Graydon Creed, Sr.
+        </p>
+        <p>
+          Sabretooth
+        </p>
+        <p>
+          He is a mutant supervillain. He is a former member of Team X and is the archenemy to Wolverine
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/13"
+      >
+        <img
+          alt="Cain Marko"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FJuggernaut.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Cain Marko
+        </p>
+        <p>
+          Juggernaut
+        </p>
+        <p>
+          He is the step-brother to Charles Xavier. He used a mystical gem to become the unstoppable Juggernaut
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/14"
+      >
+        <img
+          alt="Bolivar Trask"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FBolivar_Trask.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Bolivar Trask
+        </p>
+        <p>
+          Bolivar Trask
+        </p>
+        <p>
+          He is the man who designed the Sentinels
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/15"
+      >
+        <img
+          alt="Nathan Christopher Charles Summers"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FCable.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Nathan Christopher Charles Summers
+        </p>
+        <p>
+          Cable
+        </p>
+        <p>
+          He is a time traveling mutant, mercenary, and leader of X-Force. He spends much of his time trying to take down the evil mutant Apocalypse in the year 3999 AD
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/16"
+      >
+        <img
+          alt="Robert Kelly"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FRobert%20Kelly.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Robert Kelly
+        </p>
+        <p />
+        <p>
+          Kelly served as a Senator and later as President
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/17"
+      >
+        <img
+          alt="Raven Darkholme"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FMystique.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Raven Darkholme
+        </p>
+        <p>
+          Mystique
+        </p>
+        <p>
+          She is a shapeshifting mutant. She is the leader of the Brotherhood of Mutants.
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/18"
+      >
+        <img
+          alt="Graydon Creed Jr."
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FGraydon%20Creed%20Jr.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Graydon Creed Jr.
+        </p>
+        <p />
+        <p>
+          He is the son of Sabretooth and Mystique. He was the leader of the anti-mutant hate group Friends of Humanity. 
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/19"
+      >
+        <img
+          alt="En Sabah Nur"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FApocalypse.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          En Sabah Nur
+        </p>
+        <p>
+          Apocalypse
+        </p>
+        <p>
+          He is an extremely powerful and ancient mutant. His ultimate goal is to rule the entire planet. 
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <a
+        href="/20"
+      >
+        <img
+          alt="Lucas Bishop"
+          src="https://cdn.glitch.com/6137de19-12c5-43e0-9704-2252d809dcfb%2FBishop.png"
+        />
+      </a>
+      <figcaption>
+        <p>
+          Lucas Bishop
+        </p>
+        <p>
+          Bishop
+        </p>
+        <p>
+          He is a mutant from the future of New York in 2055 AD. He became a time traveller in order to make his present a better place
+        </p>
+      </figcaption>
+    </figure>
+  </li>
+</ul>
+`;
